@@ -43,8 +43,3 @@ def method_2(a, b, e):
 
 print(method_1(l[0], l[1], e))
 print(method_2(l[0], l[1], e))
-
-
-
-
-
