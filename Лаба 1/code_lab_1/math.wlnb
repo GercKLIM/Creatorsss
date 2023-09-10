@@ -1,0 +1,26 @@
+{
+ "cells": [
+  {
+   "kind": 2,
+   "value": "D[x^2, x]",
+   "languageId": "wolfram",
+   "outputs": [],
+   "metadata": {},
+   "executionSummary": {
+    "timing": {
+     "startTime": 1694370472464,
+     "endTime": 1694370472464
+    },
+    "success": false
+   }
+  },
+  {
+   "kind": 2,
+   "value": "",
+   "languageId": "wolfram",
+   "outputs": [],
+   "metadata": {},
+   "executionSummary": {}
+  }
+ ]
+}
